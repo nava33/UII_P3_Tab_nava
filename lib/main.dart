@@ -33,7 +33,7 @@ class _MiPaginaInicioState extends State<MiPaginaInicio> {
                     Tab(icon: Icon(Icons.apartment)),
                   ] // Fin Tabs
                       ), // Fin De TabBar
-                  title: Text("Nava Rodriguez Pestañas"),
+                  title: Text("Nava Jajaja Pestañas"),
                 ), // Fin De AppBar
                 body: TabBarView(children: [
                   Icon(Icons.taxi_alert),
